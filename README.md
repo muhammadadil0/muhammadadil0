@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Expanding the ML model for OTC Medicine Awareness**
 
-- 👨‍💻 All of my projects are available at [https://silly-treacle-d79c79.netlify.app](https://silly-treacle-d79c79.netlify.app)
+- 👨‍💻 All of my projects are available at [https://adilportfolio-tawny.vercel.app/](https://adilportfolio-tawny.vercel.app/)
 
 - 💬 Ask me about **Django, Flask, PHP, Flutter, Machine Learning**
 
