@@ -37,10 +37,8 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadadil0&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="muhammadadil0" />
-  </a>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadadil0" alt="muhammadadil0" /></a> 
 </p>
 
 ---
@@ -230,13 +228,11 @@
 
 ## 📊 GitHub Statistics
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadadil0&show_icons=true&locale=en&layout=compact&theme=radical" alt="muhammadadil0" />
-</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadadil0&show_icons=true&locale=en&layout=compact" alt="muhammadadil0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadadil0&show_icons=true&locale=en&theme=radical" alt="muhammadadil0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadadil0&show_icons=true&locale=en" alt="muhammadadil0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadadil0&theme=radical" alt="muhammadadil0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadadil0&" alt="muhammadadil0" /></p>
 
 ---
 
