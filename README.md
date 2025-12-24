@@ -37,8 +37,8 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadadil0" alt="muhammadadil0" /></a> 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadadil0&theme=onedark" alt="GitHub Profile Trophy" />
 </p>
 
 ---
