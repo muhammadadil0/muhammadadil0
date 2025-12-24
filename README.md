@@ -8,6 +8,8 @@
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=muhammadadil0&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadadil0" />
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadadil0&show_icons=true&theme=onedark)
+
   </p>
 </div>
 
