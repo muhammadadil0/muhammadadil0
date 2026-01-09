@@ -43,15 +43,37 @@ Flutter Development • Machine Learning • Full-Stack Development • Automati
 |----------------------|----------------|-------------------|
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=c" width="40"/> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=bash" width="40"/> |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadadil0&show_icons=true&locale=en&layout=compact&theme=onedark" alt="muhammadadil0" /></p>
+## 📊 GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=muhammadadil0&show_icons=true&locale=en&theme=onedark" alt="muhammadadil0" /></p>
+<div align="center">
+  
+  <!-- Replace YOUR-VERCEL-URL with your own deployed instance URL -->
+  <!-- To deploy: Fork https://github.com/anuraghazra/github-readme-stats and deploy to Vercel -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadadil0&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadadil0&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com/?user=muhammadadil0&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadadil0&theme=onedark" alt="muhammadadil0" /></p>
+<details>
+<summary><b>📝 How to Fix Broken Stats Images</b></summary>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadadil0&theme=onedark&no-frame=false&margin-w=4" alt="GitHub Profile Trophy" />
-</p>
+The Vercel services are currently paused. To get your stats working:
+
+1. **Fork the repository**: Go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and click "Fork"
+2. **Deploy to Vercel**: 
+   - Go to [vercel.com](https://vercel.com) and sign in
+   - Click "New Project" → Import your forked repository
+   - Deploy it
+3. **Add GitHub Token**:
+   - In Vercel project settings → Environment Variables
+   - Add `PAT_1` with your GitHub Personal Access Token
+   - Token needs `repo` and `read:user` scopes
+4. **Update README**: Replace `github-readme-stats.vercel.app` with your Vercel deployment URL
+
+</details>
 
 <div align="center">
   
