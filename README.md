@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="cartoon coding" width="400" />
+  <img src="./github_design_image.png" alt="cartoon coding" width="400" />
+
   
   <h1 align="center">Hi 👋, I'm Muhammad Adil</h1>
   
