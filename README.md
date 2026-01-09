@@ -47,33 +47,31 @@ Flutter Development • Machine Learning • Full-Stack Development • Automati
 
 <div align="center">
   
-  <!-- Replace YOUR-VERCEL-URL with your own deployed instance URL -->
-  <!-- To deploy: Fork https://github.com/anuraghazra/github-readme-stats and deploy to Vercel -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadadil0&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadadil0&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com/?user=muhammadadil0&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats - Using demolab service (reliable) -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=muhammadadil0&theme=onedark&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
-<details>
-<summary><b>📝 How to Fix Broken Stats Images</b></summary>
+<div align="center" style="margin-top: 20px;">
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=muhammadadil0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  
+</div>
 
-The Vercel services are currently paused. To get your stats working:
+<div align="center" style="margin-top: 20px;">
+  
+  <!-- GitHub Stats Badges using Shields.io (reliable, no Vercel) -->
+  <img src="https://img.shields.io/github/followers/muhammadadil0?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/muhammadadil0?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=fbbf24" alt="Total Stars" />
+  
+</div>
 
-1. **Fork the repository**: Go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and click "Fork"
-2. **Deploy to Vercel**: 
-   - Go to [vercel.com](https://vercel.com) and sign in
-   - Click "New Project" → Import your forked repository
-   - Deploy it
-3. **Add GitHub Token**:
-   - In Vercel project settings → Environment Variables
-   - Add `PAT_1` with your GitHub Personal Access Token
-   - Token needs `repo` and `read:user` scopes
-4. **Update README**: Replace `github-readme-stats.vercel.app` with your Vercel deployment URL
-
-</details>
+<div align="center" style="margin-top: 10px;">
+  
+  <img src="https://img.shields.io/github/last-commit/muhammadadil0/muhammadadil0?label=Last%20Update&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6" alt="Last Update" />
+  
+</div>
 
 <div align="center">
   
