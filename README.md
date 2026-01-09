@@ -43,14 +43,14 @@ Flutter Development • Machine Learning • Full-Stack Development • Automati
 |----------------------|----------------|-------------------|
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=c" width="40"/> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=bash" width="40"/> |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadadil0&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="muhammadadil0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadadil0&show_icons=true&locale=en&layout=compact&theme=onedark" alt="muhammadadil0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=muhammadadil0&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="muhammadadil0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=muhammadadil0&show_icons=true&locale=en&theme=onedark" alt="muhammadadil0" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=muhammadadil0&theme=onedark&hide_border=true" alt="muhammadadil0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadadil0&theme=onedark" alt="muhammadadil0" /></p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadadil0&theme=onedark&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadadil0&theme=onedark&no-frame=false&margin-w=4" alt="GitHub Profile Trophy" />
 </p>
 
 <div align="center">
