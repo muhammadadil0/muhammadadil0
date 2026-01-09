@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./github_design_image.png" alt="cartoon coding" width="400" />
+ <img src="./github_design_image.png" alt="GitHub Banner" width="100%" />
+
 
   
   <h1 align="center">Hi 👋, I'm Muhammad Adil</h1>
