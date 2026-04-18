@@ -23,15 +23,17 @@ Flutter Development • Machine Learning • Full-Stack Development • Automati
 - 📫 Reach me at: adilraxiq64@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/muhammadadil0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muhammadadil0" height="30" width="40" /></a>
-<a href="https://kaggle.com/adil raxiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adil raxiq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad adil" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad adil" height="30" width="40" /></a>
-<a href="https://instagram.com/notthatadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notthatadil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhammad adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad adil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adil raxiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adil raxiq" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://github.com/muhammadadil0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a></td>
+    <td><a href="https://kaggle.com/adil raxiq" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/muhammad adil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
+    <td><a href="https://fb.com/muhammad adil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/notthatadil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
+    <td><a href="https://www.hackerrank.com/muhammad adil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a></td>
+    <td><a href="https://www.leetcode.com/adil raxiq" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 ### Tech Stack
 
