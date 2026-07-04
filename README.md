@@ -3,11 +3,32 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Adil</h1>
-<h3 align="center">Flutter Dev | AI & ML Explorer | Full-Stack Project Builder</h3>
+<h3 align="center">
+Backend Engineer | AI Engineer | Cloud & DevOps Enthusiast
+</h3>
+
 <p align="center">
-Flutter Development • Machine Learning • Full-Stack Development • Automation
+Node.js • Express.js • PostgreSQL • MongoDB • Redis • Docker • AWS • AI • Automation
 </p>
 
+## 🚀 Featured Project
+
+### 🛡️ Threat Intelligence Validation Platform (Final Year Project)
+
+A cybersecurity platform that validates and scores threat intelligence using AI and machine learning. The system helps security teams identify trustworthy Indicators of Compromise (IOCs), detect misinformation, and improve cyber threat analysis.
+
+#### ✨ Features
+- 🤖 AI-powered credibility scoring
+- 🔍 IOC validation
+- 📊 Threat intelligence dashboard
+- 📈 Machine Learning analysis
+- 🔐 Secure authentication
+- ⚡ REST API architecture
+
+🔗 **Project Repository:** https://github.com/greykaizen/ThreatChain
+
+📝 **Read the Research Article**
+> [The Trust Gap in Threat Intelligence: Why Your Feeds Are Lying to You](https://dev.to/adil_raxiq_d6b4d8714f9fe0/the-trust-gap-in-threat-intelligence-why-your-feeds-are-lying-to-you-31bm)
 <p align="center">
   <a href="https://linkedin.com/in/muhammad adil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://kaggle.com/adil raxiq"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
